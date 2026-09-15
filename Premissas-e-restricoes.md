@@ -5,7 +5,7 @@
 - Tempo limitado.
 - Infraestrutura limitada.
 - Orçamento limitado.
-- Inexistência de equipe de TI para manutenções e adições.
+- Inexistência de uma equipe de TI para manutenções e adições.
 
 ---
 
